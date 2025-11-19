@@ -1,0 +1,5 @@
+{
+  "name": "Copy of n8n Reddit Scraper Builder",
+  "description": "A tool to generate custom n8n automation workflows for scraping Reddit leads, complete with AI-powered keyword suggestions and step-by-step setup guides.",
+  "requestFramePermissions": []
+}
